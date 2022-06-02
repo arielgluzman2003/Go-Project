@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9X9",
+    "rows": 9,
+    "columns": 9,
+    "initialPosition": [ 50, 50 ],
+    "horizontalSpacing": 125,
+    "verticalSpacing": 125
+    
+  },
+  {
+    "id": "13X13",
+    "rows": 13,
+    "columns": 13,
+    "initialPosition": [ 45, 50 ],
+    "horizontalSpacing": 85,
+    "verticalSpacing": 85
+  },
+  {
+    "id": "19X19",
+    "rows": 19,
+    "columns": 19,
+    "initialPosition": [ 60, 60 ],
+    "horizontalSpacing": 60,
+    "verticalSpacing": 60
+  }
+  ]
+
